@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Avilash Roy</h1>
 <h3 align="center">A passionate frontend developer.</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=avilashpopo&label=Profile%20views&color=0e75b6&style=flat" alt="avilashpopo" /> </p>
+[![](https://visitcount.itsvg.in/api?id=avilashpopo&icon=7&color=0)](https://visitcount.itsvg.in)
 
 - 👨‍💻 All of my projects are available at [https://github.com/avilashpopo](https://github.com/avilashpopo)
 
@@ -17,6 +17,6 @@
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=avilashpopo&theme=prussian&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 
 ---
-[![](https://visitcount.itsvg.in/api?id=avilashpopo&icon=7&color=0)](https://visitcount.itsvg.in)
+
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
